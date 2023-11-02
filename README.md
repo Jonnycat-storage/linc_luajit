@@ -46,3 +46,6 @@ class Test {
 
 }
 ```
+
+# TODO 
+- [] wasm support
